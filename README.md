@@ -1,16 +1,38 @@
-### Hi there 👋
 
-<!--
-**trungcrbay/trungcrbay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Glad to see u</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+<br />
+
+## 📫 Contact me :
+
+
+
+<p align="center">
+  <a href="https://www.facebook.com/profile.php?id=100090748884506" alt="Facebook" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
+  </a> 
+  <a href="https://github.com/trungcrbay" alt="Github" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
+  </a> 
+  <a href="mailto:trungnguyenjr123@gmail.com" alt="Email" target="_blank">
+    <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
+  </a>
+</p>
+
+## Skills:
+<p align="center">
+  <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
+  <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
+  <img src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
+  <img src="https://img.icons8.com/office/40/null/react.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/officel/40/null/php-logo.png"/>
+</p>
+
+
+
+
