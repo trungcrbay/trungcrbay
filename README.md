@@ -22,7 +22,7 @@
   </a>
 </p>
 
-## Skills:
+## Skills and learning:
 <p align="center">
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
