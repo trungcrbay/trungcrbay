@@ -30,7 +30,7 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/tailwindcss.png" alt="tailwindcss"/>
   <img src="https://img.icons8.com/color/48/null/sass.png"/>
   <img src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
-  <img width="100" height="100" src="https://img.icons8.com/plasticine/100/react.png" alt="react"/>
+  <img width="60" height="60" src="https://img.icons8.com/plasticine/60/react.png" alt="react"/>
   <img width="50" height="50" src="https://img.icons8.com/ios/50/redux.png" alt="redux"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
   <img src="https://img.icons8.com/officel/40/null/php-logo.png"/>
