@@ -33,11 +33,11 @@
   <img src="https://img.icons8.com/fluency/48/null/typescript--v1.png"/>
   <img width="60" height="60" src="https://img.icons8.com/plasticine/60/react.png" alt="react"/>
   <img width="50" height="50" src="https://img.icons8.com/ios/50/redux.png" alt="redux"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/officel/40/null/php-logo.png"/>
-  <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>  
+  <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
+    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/officel/40/null/php-logo.png"/>
 </p>
 
 
