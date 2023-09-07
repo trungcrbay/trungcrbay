@@ -23,7 +23,7 @@
 </p>
 
 ## Skills and learning:
-<p style="display: flex; gap:20px; flex-wrap:wrap"">
+<p style="display: flex; gap:20px; flex-wrap:wrap; justify-content:center; width:300px"">
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
