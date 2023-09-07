@@ -36,7 +36,8 @@
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/nextjs.png" alt="nextjs"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/nodejs.png" alt="nodejs"/>  
   <img width="50" height="50" src="https://img.icons8.com/ios/50/express-js.png" alt="express-js"/>
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+  <img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
   <img src="https://img.icons8.com/officel/40/null/php-logo.png"/>
 </p>
 
