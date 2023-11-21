@@ -43,9 +43,10 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 </div>
 
+<h1>Tools: </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,bootstrap,firebase,mongodb,postman,stackoverflow,,docker" />
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,firebase,mongodb,postman,vite,vscode,docker" />
   </a>
 </p>
 
