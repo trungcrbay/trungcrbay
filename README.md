@@ -46,7 +46,7 @@
 <h1>Tools: </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,bootstrap,firebase,mongodb,postman,vite,vscode,docker" />
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,tailwind,firebase,mongodb,postman,vite,vscode,docker" />
   </a>
 </p>
 
