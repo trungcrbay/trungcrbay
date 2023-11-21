@@ -43,7 +43,11 @@
   <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,firebase,mongodb,postman,stackoverflow,,docker" />
+  </a>
+</p>
 
 
 
