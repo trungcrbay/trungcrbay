@@ -23,7 +23,7 @@
 </p>
 
 ## Skills and learning:
-<p style="display: flex; gap:20px; flex-wrap:wrap; justify-content:center; width:300px"">
+<div style="display: flex; gap:20px; flex-wrap:wrap; justify-content:center; width:300px"">
   <img src="https://img.icons8.com/color/48/null/html-5--v1.png"/>
   <img src="https://img.icons8.com/fluency/48/null/css3.png"/>
   <img src="https://img.icons8.com/color/48/null/javascript--v1.png"/>
@@ -41,8 +41,9 @@
   <img width="64" height="64" src="https://img.icons8.com/nolan/64/mongo-db.png" alt="mongo-db"/>
   <img src="https://img.icons8.com/officel/40/null/php-logo.png"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/firebase.png" alt="firebase"/>
-</p>
+</div>
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 
