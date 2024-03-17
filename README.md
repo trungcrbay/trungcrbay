@@ -25,7 +25,7 @@
 <h1>Skills and learning</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,react,redux,nextjs,nodejs,express,nestjs,php,dotnet" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,php,react,redux,nextjs,nodejs,express,nestjs,angular,dotnet" />
   </a>
 </p>
 
