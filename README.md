@@ -37,11 +37,11 @@
 </p>
 
 <div align='center' style="margin-top: 1.5rem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=compact&theme=light" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=compact&theme=dark" />
 </div>
 
-<div align='center' style="margin-top: 1.5rem">
+[<div align='center' style="margin-top: 1.5rem">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trungcrbay&theme=algolia" />
 </div>
-
+](url)
 
