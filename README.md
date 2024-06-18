@@ -37,8 +37,15 @@
 </p>
 
 <div align='center'>
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=compact&theme=light](https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=donut-vertical&theme=rose)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=donut-vertical&theme=rose" />
 </div>
 
+<div align='center'>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=donut-vertical&theme=rose" />
+</div>
+
+<div align='center'>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trungcrbay&theme=light" />
+</div>
 
 
