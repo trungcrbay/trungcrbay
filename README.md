@@ -36,7 +36,9 @@
   </a>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=compact&theme=dark" />
+<div align='center'>
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=compact&theme=light](https://github-readme-stats.vercel.app/api/top-langs/?username=trungcrbay&layout=donut-vertical&theme=rose)" />
+</div>
 
 
 
