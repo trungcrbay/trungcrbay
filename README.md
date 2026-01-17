@@ -30,7 +30,7 @@
 <h1>Tools: </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,bootstrap,tailwind,mysql,mongodb,postgres,mysql,postman,vite,vscode,visualstudio,pycharm,ps,figma,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,tailwind,mysql,mongodb,postgres,mysql,postman,vite,vscode,visualstudio,pycharm,ps,figma,androidstudio,angular" />
   </a>
 </p>
 
