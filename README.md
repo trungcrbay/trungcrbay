@@ -23,14 +23,14 @@
 <h1>Skills and learning</h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,react,redux,jest,nextjs,nodejs,materialui,express,nestjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,python,react,redux,jest,nextjs,nodejs,materialui,express,nestjs,angular" />
   </a>
 </p>
 
 <h1>Tools: </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,bootstrap,tailwind,mysql,mongodb,postgres,mysql,postman,vite,vscode,visualstudio,pycharm,ps,figma,androidstudio,angular" />
+    <img src="https://skillicons.dev/icons?i=github,bootstrap,tailwind,mysql,mongodb,postgres,mysql,postman,vite,vscode,visualstudio,pycharm,ps,figma,androidstudio" />
   </a>
 </p>
 
